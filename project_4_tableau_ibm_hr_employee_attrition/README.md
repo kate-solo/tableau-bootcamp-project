@@ -117,14 +117,6 @@ The visualizations are designed following best practices:
 IBM HR Analytics Employee Attrition Dataset  
 (Provided for educational and analytical purposes)
 
----
-
-## 👤 Kateryna
-
-Project completed as part of a Data Analytics Bootcamp to demonstrate:
-- Exploratory data analysis
-- Data visualization best practices
-- Insight-driven storytelling
 
 
 
