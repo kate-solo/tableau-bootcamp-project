@@ -1,26 +1,14 @@
 # 📊 Data Analytics & Visual Analytics Portfolio  
 ## 🎓 Bootcamp Final Projects
 
-Welcome to my **Data Analytics & Visual Analytics Portfolio**, a curated collection of final projects completed as part of a Data Analytics bootcamp.
+Welcome to my **Data Analytics & Visual Analytics Portfolio** — a curated collection of final projects completed as part of a Data Analytics bootcamp.
 
-This repository showcases practical skills in:
+This repository demonstrates practical experience in:
 - exploratory data analysis (EDA),
 - data visualization,
 - and insight-driven storytelling using **Python** and **Tableau**.
 
-Each project focuses on transforming raw data into **clear, actionable insights** through structured analysis and effective communication.
-
----
-
-## 📂 Repository Structure
-
-```text
-project_1_eda_remote_work_health/              # EDA of post-pandemic remote work, health, and productivity factors
-project_2_eda_video_game_sales/                # Exploratory analysis of global video game sales trends
-project_3_eda_amazon_sales/                    # E-commerce sales analysis with pricing and rating insights
-project_4_tableau_ibm_hr_employee_attrition/   # Employee attrition analysis using EDA and Tableau storytelling
-project_5_tableau_student_habits_performance/  # Tableau story analyzing how student habits influence exam performance
-README.md                                      # Main portfolio documentation
+Each project focuses on transforming raw data into **clear, actionable insights** to support data-driven decision-making.
 
 ---
 
