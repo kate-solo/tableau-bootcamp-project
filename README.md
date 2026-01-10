@@ -29,6 +29,7 @@ Each project focuses on transforming raw data into **clear, actionable insights*
   - Tableau story analyzing how student habits influence exam performance
 
 - **README.md**
+  - Main portfolio documentation 
 
 ---
 
