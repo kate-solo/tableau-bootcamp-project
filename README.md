@@ -11,6 +11,29 @@ This repository demonstrates practical experience in:
 Each project focuses on transforming raw data into **clear, actionable insights** to support data-driven decision-making.
 
 ---
+## 📂 Repository Structure
+
+tableau-bootcamp-project/
+│
+├── project_1_eda_remote_work_health/
+│   # EDA of post-pandemic remote work, health, and productivity factors
+│
+├── project_2_eda_video_game_sales/
+│   # Exploratory analysis of global video game sales trends
+│
+├── project_3_eda_amazon_sales/
+│   # E-commerce sales analysis with pricing and rating insights
+│
+├── project_4_tableau_ibm_hr_employee_attrition/
+│   # Employee attrition analysis using EDA and Tableau storytelling
+│
+├── project_5_tableau_student_habits_performance/
+│   # Tableau story analyzing how student habits influence exam performance
+│
+└── README.md
+# Main portfolio documentation
+
+---
 
 ## Projects Overview
 
